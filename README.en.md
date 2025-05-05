@@ -11,9 +11,7 @@ Many of my contributions are in private repositories and others on GitLab, so th
 
 I am working on integrating GitHub Stats into my profile, but in the meantime, I have decided to provide a summary of the technologies and tools I currently work with.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/mmunozba/)
-
-[![GitLab](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=FC6D26)](https://www.gitlab.com/marcoss2009/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/mmunozba/) [![GitLab](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=FC6D26)](https://www.gitlab.com/marcoss2009/)
 
 ## Technologies & Tools 💻
 ![](https://img.shields.io/badge/OS-Rocky_Linux_9-informational?style=flat&logo=rockylinux&logoColor=white&color=10B981)
